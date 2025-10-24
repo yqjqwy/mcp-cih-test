@@ -154,7 +154,7 @@ node dist/cli.js --stdio
 ```json
 {
   "name": "mcp-cih",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "type": "module",
   "main": "dist/cli.js",
   "bin": { "mcp-cih": "dist/cli.js" },
