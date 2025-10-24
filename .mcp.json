@@ -1,16 +1,12 @@
 {
   "mcpServers": {
-    "mcp-cih": {
+    "mcp-cih-demo": {
       "command": "npx",
       "args": [
-        "mcp-cih",
+        "-y",
+        "mcp-cih-test",
         "--stdio"
-      ],
-      "env": {
-        "NODE_ENV": "production"
-      },
-      "autoStart": true,
-      "description": "根据城市名称查询房价均价的 MCP 服务器 (City Avg House Price)."
+      ]
     }
   }
 }

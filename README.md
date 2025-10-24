@@ -118,30 +118,7 @@ node dist/cli.js --stdio
   "mcpServers": {
     "mcp-cih": {
       "command": "npx",
-      "args": ["mcp-cih", "--stdio"],
-      "env": {
-        "NODE_ENV": "production"
-      },
-      "autoStart": true,
-      "description": "根据城市名称查询房价均价的 MCP 服务器 (City Avg House Price)."
-    }
-  }
-}
-```
-
-如需本地调试模式，可使用：
-
-```json
-{
-  "mcpServers": {
-    "mcp-cih-local": {
-      "command": "node",
-      "args": ["dist/cli.js", "--stdio"],
-      "env": {
-        "NODE_ENV": "development"
-      },
-      "autoStart": true,
-      "description": "mcp-cih (local dev mode)"
+      "args": ["-y", "mcp-cih-test", "--stdio"]
     }
   }
 }
@@ -153,7 +130,7 @@ node dist/cli.js --stdio
 
 ```json
 {
-  "name": "mcp-cih",
+  "name": "mcp-cih-test",
   "version": "0.1.0",
   "type": "module",
   "main": "dist/cli.js",
