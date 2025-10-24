@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "根据城市查询房价均价的 MCP 服务器",
   "entry": {
-    "command": "node",
-    "args": ["./dist/cli.js", "--stdio"]
+    "command": "npx",
+    "args": ["mcp-cih", "--stdio"]
   },
   "tools": [
     {
