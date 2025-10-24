@@ -1,0 +1,22 @@
+{
+  "name": "mcp-cih",
+  "version": "0.1.0",
+  "description": "根据城市查询房价均价的 MCP 服务器",
+  "entry": {
+    "command": "node",
+    "args": ["./dist/cli.js", "--stdio"]
+  },
+  "tools": [
+    {
+      "name": "get_city_avg_house_price",
+      "description": "根据城市名称返回房价均价（元/平方米）",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "city": { "type": "string", "description": "城市中文或英文名" }
+        },
+        "required": ["city"]
+      }
+    }
+  ]
+}

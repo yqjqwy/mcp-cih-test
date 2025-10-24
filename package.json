@@ -1,0 +1,31 @@
+{
+  "name": "mcp-cih-test",
+  "version": "0.1.0",
+  "description": "MCP 服务器：根据城市查询房价均价",
+  "type": "module",
+  "bin": {
+    "mcp-cih": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "node --loader ts-node/esm src/cli.ts",
+    "start": "node dist/cli.js --stdio"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "house-price",
+    "city",
+    "china",
+    "cih"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "ts-node": "^10.9.2"
+  }
+}

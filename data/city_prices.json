@@ -1,0 +1,22 @@
+{
+  "北京": { "currency": "CNY", "unit": "元/平方米", "average": 82000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "上海": { "currency": "CNY", "unit": "元/平方米", "average": 75000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "深圳": { "currency": "CNY", "unit": "元/平方米", "average": 72000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "广州": { "currency": "CNY", "unit": "元/平方米", "average": 48000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "杭州": { "currency": "CNY", "unit": "元/平方米", "average": 55000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "南京": { "currency": "CNY", "unit": "元/平方米", "average": 42000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "成都": { "currency": "CNY", "unit": "元/平方米", "average": 32000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "重庆": { "currency": "CNY", "unit": "元/平方米", "average": 22000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "武汉": { "currency": "CNY", "unit": "元/平方米", "average": 30000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "西安": { "currency": "CNY", "unit": "元/平方米", "average": 23000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "青岛": { "currency": "CNY", "unit": "元/平方米", "average": 29000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "苏州": { "currency": "CNY", "unit": "元/平方米", "average": 38000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "东莞": { "currency": "CNY", "unit": "元/平方米", "average": 30000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "佛山": { "currency": "CNY", "unit": "元/平方米", "average": 22000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "厦门": { "currency": "CNY", "unit": "元/平方米", "average": 47000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "宁波": { "currency": "CNY", "unit": "元/平方米", "average": 33000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "合肥": { "currency": "CNY", "unit": "元/平方米", "average": 24000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "郑州": { "currency": "CNY", "unit": "元/平方米", "average": 23000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "天津": { "currency": "CNY", "unit": "元/平方米", "average": 27000, "updated_at": "2025-10-01", "note": "示例数据" },
+  "大连": { "currency": "CNY", "unit": "元/平方米", "average": 24000, "updated_at": "2025-10-01", "note": "示例数据" }
+}
