@@ -190,8 +190,8 @@ MIT © 2025 Your Name or Organization
 
 ## 💬 联系与支持
 
-- 作者：[YourGitHubID](https://github.com/YourGitHubID)
-- 反馈：[GitHub Issues](https://github.com/YourGitHubID/mcp-cih/issues)
+- 作者：[yqjqwy](https://github.com/yqjqwy/mcp-cih-test)
+- 反馈：[GitHub Issues](https://github.com/yqjqwy/mcp-cih-test/issues)
 
 ---
 
