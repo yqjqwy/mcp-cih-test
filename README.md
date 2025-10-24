@@ -116,7 +116,7 @@ node dist/cli.js --stdio
 ```json
 {
   "mcpServers": {
-    "mcp-cih": {
+    "mcp-cih-demo": {
       "command": "npx",
       "args": ["-y", "mcp-cih-test", "--stdio"]
     }
